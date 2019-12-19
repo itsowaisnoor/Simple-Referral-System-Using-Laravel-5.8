@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Referral System with Laravel 5.8
+## Referral System Using Laravel 5.8
 
 A referral flow looks something like this
 
